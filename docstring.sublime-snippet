@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+
+"""
+DocString for $TM_FILENAME.
+Created by AprendaCódigo (C) 2015
+
+Notes: $TM_CURRENT_LINE
+"""
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dcs</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>
