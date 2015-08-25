@@ -1,0 +1,8 @@
+{
+	"python_interpreter": "python3",
+	"aggressive": 2,
+	"display_signatures": false,
+	"anaconda_gutter_theme": "alpha",
+	"anaconda_linter_show_errors_on_save": true,
+	"pep257": true,
+}
