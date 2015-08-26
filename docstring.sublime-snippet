@@ -2,9 +2,9 @@
 	<content><![CDATA[
 """
 DocString for $TM_FILENAME.
-Created by AprendaCódigo (C) 2015
+Created by $TM_FULLNAME (C) $TM_YEAR
 
-Notes: $TM_CURRENT_LINE
+Notes: ${1:descrição}
 """
 
 ]]></content>
@@ -13,3 +13,4 @@ Notes: $TM_CURRENT_LINE
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.python</scope>
 </snippet>
+
