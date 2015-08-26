@@ -4,5 +4,6 @@
 	"display_signatures": false,
 	"anaconda_gutter_theme": "alpha",
 	"anaconda_linter_show_errors_on_save": true,
-	"pep257": true,
+	"pep257": false,
+	"auto_formatting_timeout": 10, 
 }
