@@ -11,7 +11,9 @@ Digite os comandos a seguir:
 ###Configuração do Sublime Text 3:
 > O arquivo `Default.sublime-theme` deve ser usado para configurar opções como a Barra Lateral (sidebar), conforme visto no vídeo 3
 
-> Utilize o arquivo `docstring.sublime-snippet` como referência aos Snippets, mostrados nos vídeos 9 e 11
+> Utilize o arquivo `docstring.sublime-snippet` como referência aos Snippets, mostrados nos vídeos 9 e 14
+
+> Utilize o arquivo `Default.tmPreferences` como referência para criar suas variáveis de ambiente, conforme mostrado no vídeo 14
 
 ###Plugins para Sublime Text 3:
 
