@@ -39,13 +39,37 @@ link: https://github.com/skuroda/Sublime-AdvancedNewFile
 link: https://github.com/titoBouzout/SideBarEnhancements
 
 ####Instalar Anaconda
-1. Para instalar o AdvancedNewFile, digite ctrl-shift-p e selecione a opção *Install Package*
+1. Para instalar o Anaconda, digite ctrl-shift-p e selecione a opção *Install Package*
 2. Selecione o pacote "Anaconda"
 3. Reinicie o Sublime Text.
 
 link: http://damnwidget.github.io/anaconda/
 
 > Utilize o arquivo `Anaconda.sublime-settings` como referência para a configuração do Sublime apresentado no video 11
+
+####Instalar DocBlockr e AutoDocString
+1. Para instalar o DocBlockr, digite ctrl-shift-p e selecione a opção *Install Package*
+2. Selecione o pacote "DocBlockr"
+3. Reinicie o Sublime Text
+4. Repita a operação para o AutoDocString.
+
+link: https://github.com/spadgos/sublime-jsdocs
+
+link: https://github.com/KristoforMaynard/SublimeAutoDocstring
+
+####Instalar ColorPicker, PyDoc, Bracket Highlighter e Djaneiro
+1. Para instalar o ColorPicker, digite ctrl-shift-p e selecione a opção *Install Package*
+2. Selecione o pacote "ColorPicker"
+3. Reinicie o Sublime Text
+4. Repita a operação para o PyDoc, Bracket Highlighter e Djaneiro.
+
+link: http://weslly.github.io/ColorPicker/
+
+link: https://packagecontrol.io/packages/PyDOC
+
+link: https://github.com/facelessuser/BracketHighlighter
+
+link: https://github.com/squ1b3r/Djaneiro
 
 ####Outras Opções do Package Control
 > Para desabilitar um plugin digite ctrl-shift-p e selecione a opção *Disable Package*
